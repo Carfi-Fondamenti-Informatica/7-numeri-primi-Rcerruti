@@ -1,6 +1,5 @@
 #include <iostream>
 using namespace std;
-
 bool num_primi(int a, int b){
     if(b==1 or b==0){
         return true;
