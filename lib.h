@@ -1,4 +1,4 @@
 #ifndef ESERCITAZIONE_NUMERI_PRIMI_LIB_H
 #define ESERCITAZIONE_NUMERI_PRIMI_LIB_H
-bool num_primi(int);
+bool num_primi(int, int);
 #endif //ESERCITAZIONE_NUMERI_PRIMI_LIB_H
